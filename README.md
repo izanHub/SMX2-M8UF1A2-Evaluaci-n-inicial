@@ -48,7 +48,7 @@
 
 7. ¿Qué es CSS?
 
-    <FONT COLOR "red"> CSS (Cascading Style Sheets) es un lenguaje de diseño gráfico utilizado para definir la presentación de un documento estructurado escrito en un lenguaje de marcado, como HTML. CSS se utiliza para establecer el diseño visual de los documentos web y las interfaces de usuario escritas en HTML o XHTML.
+    <FONT COLOR="red"> CSS (Cascading Style Sheets) es un lenguaje de diseño gráfico utilizado para definir la presentación de un documento estructurado escrito en un lenguaje de marcado, como HTML. CSS se utiliza para establecer el diseño visual de los documentos web y las interfaces de usuario escritas en HTML o XHTML.
 
 8. Flujo de trabajo (navegador, peticíon, servidor y respuesta):
 
