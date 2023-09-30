@@ -31,20 +31,20 @@
 
     HTML (HyperText Markup Language) es un lenguaje de marcado utilizado para estructurar y desplegar páginas web y sus contenidos. HTML no es un lenguaje de programación, sino un lenguaje de marcado que define la estructura del contenido de una página web.
 
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UFT-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
+    ```
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UFT-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
 
-</body>
-</html>
-```
+    </body>
+    </html>
+    ```
 
 7. ¿Qué es CSS?
 
