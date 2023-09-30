@@ -18,14 +18,14 @@
 
 5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/)
 
-| Aplicación | Visto |
-|:----------|:------|
-|Google Docs|✔️|
-|Google Slides|✔️|
-|Gogle Sheets|✔️|
-|Google Calendar|📆|
-|Google Meet|💻|
-|...| ...|
+    | Aplicación | Visto |
+    |:----------|:------|
+    |Google Docs|✔️|
+    |Google Slides|✔️|
+    |Gogle Sheets|✔️|
+    |Google Calendar|📆|
+    |Google Meet|💻|
+    |...| ...|
 
 6. ¿Qué es HTML?
 
