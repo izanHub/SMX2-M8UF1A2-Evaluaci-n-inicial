@@ -2,19 +2,19 @@
 
 1. ¿Qué es una página web?
 
-    <FONT COLOR="red"> Una página web es un documento hipertexto en la World Wide Web que se entrega por un servidor web al usuario y se muestra en un navegador web.
+    <FONT COLOR="red"> Una página web es un documento hipertexto en la World Wide Web que se entrega por un servidor web al usuario y se muestra en un navegador web.</FONT>
 
 2. ¿Qué es un sitio web?
 
-    <FONT COLOR="red"> Un sitio web es una colección de páginas web y contenido relacionado que se identifica por un nombre de dominio común y se publica en al menos un servidor web.
+    <FONT COLOR="red"> Un sitio web es una colección de páginas web y contenido relacionado que se identifica por un nombre de dominio común y se publica en al menos un servidor web.</FONT>
 
 3. ¿Qué es una aplicacion web?
 
-    <FONT COLOR="red"> Una aplicación web es un software que se ejecuta en un navegador web y que permite a los usuarios realizar funciones determinadas en internet, como enviar mensajes, realizar compras en línea, acceder a servicios de banca en línea, entre otros.
+    <FONT COLOR="red"> Una aplicación web es un software que se ejecuta en un navegador web y que permite a los usuarios realizar funciones determinadas en internet, como enviar mensajes, realizar compras en línea, acceder a servicios de banca en línea, entre otros.</FONT>
 
 4. ¿Qué es una herramienta ofimática?
 
-    <FONT COLOR="red"> Las herramientas ofimáticas son un conjunto de programas o software que se utilizan para facilitar las tareas de oficina. Estas herramientas se utilizan para crear, editar, almacenar y compartir documentos, hojas de cálculo, presentaciones y otros tipos de archivos.
+    <FONT COLOR="red"> Las herramientas ofimáticas son un conjunto de programas o software que se utilizan para facilitar las tareas de oficina. Estas herramientas se utilizan para crear, editar, almacenar y compartir documentos, hojas de cálculo, presentaciones y otros tipos de archivos.</FONT>
 
 5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/)
 
@@ -29,7 +29,7 @@
 
 6. ¿Qué es HTML?
 
-    <FONT COLOR="red"> HTML (HyperText Markup Language) es un lenguaje de marcado utilizado para estructurar y desplegar páginas web y sus contenidos. HTML no es un lenguaje de programación, sino un lenguaje de marcado que define la estructura del contenido de una página web.
+    <FONT COLOR="red"> HTML (HyperText Markup Language) es un lenguaje de marcado utilizado para estructurar y desplegar páginas web y sus contenidos. HTML no es un lenguaje de programación, sino un lenguaje de marcado que define la estructura del contenido de una página web.</FONT>
 
     ```
     <!DOCTYPE html>
@@ -48,7 +48,7 @@
 
 7. ¿Qué es CSS?
 
-    <FONT COLOR="red"> CSS (Cascading Style Sheets) es un lenguaje de diseño gráfico utilizado para definir la presentación de un documento estructurado escrito en un lenguaje de marcado, como HTML. CSS se utiliza para establecer el diseño visual de los documentos web y las interfaces de usuario escritas en HTML o XHTML.
+    <FONT COLOR="red"> CSS (Cascading Style Sheets) es un lenguaje de diseño gráfico utilizado para definir la presentación de un documento estructurado escrito en un lenguaje de marcado, como HTML. CSS se utiliza para establecer el diseño visual de los documentos web y las interfaces de usuario escritas en HTML o XHTML.</FONT>
 
 8. Flujo de trabajo (navegador, peticíon, servidor y respuesta):
 
