@@ -52,4 +52,4 @@
 
 8. Flujo de trabajo (navegador, peticíon, servidor y respuesta):
 
-![U+200E](https://github.com/izanHub/SMX2-M8UF1A2-Evaluaci-n-inicial/blob/main/Captura%20de%20pantalla%202023-09-30%20162342.png "imagen")
+    ![U+200E](https://github.com/izanHub/SMX2-M8UF1A2-Evaluaci-n-inicial/blob/main/Captura%20de%20pantalla%202023-09-30%20162342.png "imagen")
